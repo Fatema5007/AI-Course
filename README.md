@@ -20,7 +20,7 @@ This course is designed to introduce students to the foundational concepts of Ar
   - Beam Search
   - Branch and Bound Algorithm
   - And many more...
-- Built intelligent game-playing agents (e.g., Tic Tac Toe, Connect Four) using Python.
+- Built intelligent game-playing agents (e.g., Tic Tac Toe,Chess,Connect Four) using Python.
 - Learned how to use AI tools to create presentations and videos.
 - Explored how AI is applied in decision making, automation, and smart systems.
 
