@@ -47,6 +47,7 @@ The AI uses the Minimax algorithm, a recursive decision-making process that expl
 
 ---
 
-![TIC TAC TOE screenshots](screenshots/tic_tac_toe.png)
+![Tic Tac Toe Screenshot](../screenshots/tic_tac_toe.png)
+
 
 ---
