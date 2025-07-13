@@ -50,6 +50,6 @@ The AI explores possible moves recursively up to a set depth, evaluating board s
 
 ## Screenshot
 
-![Chess Game Screenshot](../screenshots/chess.png)
+![Chess Game Screenshot](screenshots/chess.png)
 
 
