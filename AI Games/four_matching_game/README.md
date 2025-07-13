@@ -40,7 +40,7 @@ The AI uses the Minimax algorithm to explore possible moves and choose the best 
 
 ## Screenshot
 
-![Four Matching Game Screenshot](../screenshots/four_matching.png)
+![Four Matching Game Screenshot](screenshots/four_matching.png)
 
 
 ---
