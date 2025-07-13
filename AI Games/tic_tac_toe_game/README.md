@@ -27,10 +27,12 @@ This is a Python terminal-based Tic Tac Toe game where you (Player 'X') compete 
 
 * Input a number between 1 and 9 to place your 'X' in the corresponding cell:
 
+```
+    1 | 2 | 3
+    4 | 5 | 6
+    7 | 8 | 9
 
-1 | 2 | 3
-4 | 5 | 6
-7 | 8 | 9
+```
 
 * The goal is to get three of your marks in a row — horizontally, vertically, or diagonally.
 
@@ -47,7 +49,7 @@ The AI uses the Minimax algorithm, a recursive decision-making process that expl
 
 ---
 
-![Tic Tac Toe Screenshot](../screenshots/tic_tac_toe.png)
+![Tic Tac Toe Screenshot](screenshots/tic_tac_toe.png)
 
 
 ---
